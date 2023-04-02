@@ -8,7 +8,8 @@
       "description": "Pretty Modern Women Dresses Fabric Poly Crepe Sleeveless Solid",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/17898117/fbdc9_512.webp",
-      "rating": 3.9
+      "rating": 3.9,
+      "color": "red"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "description": "Comfy Modern Women Dresses Crepe Short Sleeves Printed",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/20624112/24dd6_512.webp",
-      "rating": 4.1
+      "rating": 4.1,
+      "color": "white"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "description": "Comfy Modern men Dresses Crepe Short Sleeves Printed",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/111658893/mmc86_512.webp",
-      "rating": 3.7
+      "rating": 3.7,
+      "color": "red"
     },
     {
       "id": 4,
@@ -37,7 +40,8 @@
       "description": "Comfy Modern men Dresses Crepe Short Sleeves Printed",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/106912891/zmngq_512.webp",
-      "rating": 4.2
+      "rating": 4.2,
+      "color": "blue"
     },
     {
       "id": 5,
@@ -46,7 +50,8 @@
       "description": " Trendy Elegant Women Sweatshirts Fleece Length Long Sleeves Solid",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/59924591/auoxl_512.webp",
-      "rating": 4.6
+      "rating": 4.6,
+      "color": "black"
     },
     {
       "id": 6,
@@ -55,7 +60,8 @@
       "description": "Phonolite Slippers are light footwear that are easy to put on and off and are intended to be worn indoors, particularly at home",
       "category": "women's sleepers",
       "image": "https://images.meesho.com/images/products/94090879/qj1i6_512.webp",
-      "rating": 3.9
+      "rating": 3.9,
+      "color": "black"
     },
     {
       "id": 7,
@@ -64,7 +70,8 @@
       "description": "Name : Banarasi Jequard Saree Saree Fabric : Cotton Slub  Blouse : Separate Blouse Piece Blouse Fabric : Art Silk Pattern : Printed",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/146536606/ts88i_512.webp",
-      "rating": 3
+      "rating": 3,
+      "color": "red"
     },
     {
       "id": 8,
@@ -73,7 +80,8 @@
       "description": "Name : Fancy Unique Men Track Pants Fabric : Cotton Blend Pattern : Printed",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/114683002/wimr2_512.webp",
-      "rating": 3.7
+      "rating": 3.7,
+      "color": "black"
     },
     {
       "id": 9,
@@ -82,7 +90,8 @@
       "description": "Name : GREY JEANS Fabric : Denim Pattern : Dyed/Washed",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/79800732/zdcji_512.webp",
-      "rating": 3.7
+      "rating": 3.7,
+      "color": "black"
     },
     {
       "id": 10,
@@ -91,7 +100,8 @@
       "description": "Standalone Phone Watch : Smart watch connected Android phone via Bluetooth or with GSM 2G SIM Card can be used as a cellphone to make/answer calls, send/get message directly. Multifunctional Smartwatch: Sport health: Pedometer, Calories Calculation, Sedentary Reminder, Sleep Monitoring;",
       "category": "electronics",
       "image": "https://images.meesho.com/images/products/155783936/7eioi_512.webp",
-      "rating": 4.3
+      "rating": 4.3,
+      "color": "black"
     },
     {
       "id": 11,
@@ -100,7 +110,8 @@
       "description": "We designed this Induction Bottom Cookware to fit your everyday cooking needs. Whether you are a professional chef or love cooking at home, this pot will become one of your favourite items in your entire kitchen! This beautifully designed to cook in it. ",
       "category": "Home and kitchen",
       "image": "https://images.meesho.com/images/products/45085356/rivgc_512.webp",
-      "rating": 3.5
+      "rating": 3.5,
+      "color": "black"
     },
     {
       "id": 12,
@@ -109,7 +120,8 @@
       "description": "Material- Plastic, Color-Brown,Size-38*28cms,elegant look anchor shape pendulum wall clock for living room,drawing room,bedroom,office,home for him/her for gifting",
       "category": "electronics",
       "image": "https://images.meesho.com/images/products/26099886/a7q4f_512.webp",
-      "rating": 4.1
+      "rating": 4.1,
+      "color": "black"
     },
     {
       "id": 14,
@@ -119,7 +131,7 @@
       "category": "women's ",
       "image": "https://images.meesho.com/images/products/161637873/2ftzh_512.webp",
       "rating": 4.2,
-      "filter": "Girls"
+      "color": "pink"
     },
     {
       "id": 15,
@@ -128,7 +140,8 @@
       "description": "Product Name : Face Makeup combo of fixer + primer+ Foundation + Contour stick+ Highlighter (Blossom) + Puff ( 6items in The Set (Makeup Kit)",
       "category": "women's",
       "image": "https://images.meesho.com/images/products/107882184/ci2oi_512.webp",
-      "rating": 3.6
+      "rating": 3.6,
+      "color": "pink"
     },
     {
       "id": 16,
@@ -137,7 +150,8 @@
       "description": "Name : Ravishing Fashionable Women Backpacks Material : PU No. of Compartments : 1 Multipack : 3",
       "category": "women's ",
       "image": "https://images.meesho.com/images/products/48200234/q2nav_512.webp",
-      "rating": 2.9
+      "rating": 2.9,
+      "color": "pink"
     },
     {
       "id": 17,
@@ -146,7 +160,8 @@
       "description": "Accentuate your feminine grace by putting on this necklace set from ma bhawani creation and let your look be exceptionally beautiful club this necklace set with traditional attire to look gorgous in time an exclusive accessories",
       "category": "women's ",
       "image": "https://images.meesho.com/images/products/164036197/gqvkb_512.webp",
-      "rating": 3.8
+      "rating": 3.8,
+      "color": "pink"
     },
     {
       "id": 18,
@@ -155,7 +170,8 @@
       "description": "Name : Spinny Men's Wallet BMW Combo Multicolor Pack of 2 Material : Faux Leather/Leatherette No. of Compartments : 2 Pattern : Solid",
       "category": "men's ",
       "image": "https://images.meesho.com/images/products/168232013/fvvac_512.webp",
-      "rating": 4.7
+      "rating": 4.7,
+      "color": "gray"
     },
     {
       "id": 19,
@@ -164,7 +180,8 @@
       "description": "Umax Brings another SANDAL that will make the Loyal Customers of Umax Look Stand Apart. Umax has always believed in offering customers the best of products that are very very trendy, Buy these latest trendy SANDAL and make yourself look stand Apart as we Always believe that Winners are the Choosers.",
       "category": "men's ",
       "image": "https://images.meesho.com/images/products/139594304/cb1pf_512.webp",
-      "rating": 4.5
+      "rating": 4.5,
+      "color": "brown"
     },
     {
       "id": 20,
@@ -173,7 +190,8 @@
       "description": "Readmi Go Back Cover Soft Cover Country of Origin : India",
       "category": "Phone",
       "image": "https://images.meesho.com/images/products/78591203/akim8_512.webp",
-      "rating": 3.6
+      "rating": 3.6,
+      "color": "gray"
     },
     {
       "id": 21,
@@ -182,7 +200,8 @@
       "description": "Cute Stylus Girls Frocks with beautifull print Country of Origin : India",
       "category": "child",
       "image": "https://images.meesho.com/images/products/151023315/4q15u_512.webp",
-      "rating": 3.6
+      "rating": 3.6,
+      "color": "gray"
     },
     {
       "id": 22,
@@ -191,7 +210,8 @@
       "description": "Cute Stylus Girls Frocks with beautifull print Country of Origin : India",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/210991063/1mxoo_400.webp",
-      "rating": 3.6
+      "rating": 3.6,
+      "color": "pink"
     },
     {
       "id": 23,
@@ -200,7 +220,8 @@
       "description": "Name : trendy printed shirt for men Fabric : Lycr Sleeve Length : Short Sleeves",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/209786534/bc2mn_512.webp",
-      "rating": 3.9
+      "rating": 3.9,
+      "color": "green"
     },
     {
       "id": 24,
@@ -209,7 +230,8 @@
       "description": "PATHAN MOVIES LATEST Stylish Designer Wear Printed Pathan Shirt For Any Occasion. Combination Of Shirt Specially Designed For Multiple Occasions",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/228657353/ol22d_400.webp",
-      "rating": 4.1
+      "rating": 4.1,
+      "color": "green"
     },
     {
       "id": 25,
@@ -218,7 +240,8 @@
       "description": "Name : Styles Latest Women Clutches Material : PU No. of Compartments : 2",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/222350479/ur5xu_512.webp",
-      "rating": 3.8
+      "rating": 3.8,
+      "color": "golden"
     },
     {
       "id": 26,
@@ -227,7 +250,8 @@
       "description": "Gorgeous Stylishr Handbag, attractive and classic in design ladies purse,",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/199781557/xz96r_400.webp",
-      "rating": 3.7
+      "rating": 3.7,
+      "color": "golden"
     },
     {
       "id": 27,
@@ -236,7 +260,8 @@
       "description": "Name : Jewellery Set  Base Metal : Alloy Plating : Gold Plated",
       "category": "jewellery",
       "image": "https://images.meesho.com/images/products/100419490/orpmg_512.webp",
-      "rating": 3.1
+      "rating": 3.1,
+      "color": "gray"
     },
     {
       "id": 28,
@@ -245,7 +270,8 @@
       "description": "Name : Women's Self-Design Brown Georgette Top Fabric : Georgette Sleeve Length : Three-Quarter Sleeves",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/6886912/4c117_512.webp",
-      "rating": 4.2
+      "rating": 4.2,
+      "color": "golden"
     },
     {
       "id": 29,
@@ -254,7 +280,8 @@
       "description": "This Women Top made from Pure Cotton Fabric is new addition in the list of offerings from shefab",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/198945068/2nlab_512.webp",
-      "rating": 4.3
+      "rating": 4.3,
+      "color": "brown"
     },
     {
       "id": 30,
@@ -263,7 +290,8 @@
       "description": "Name : Flawsome Comfy Girls Frocks & Dresses Fabric : Viscose Sleeve Length : Three-Quarter Sleeves Pattern : Solid",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/218567722/qqdii_512.webp",
-      "rating": 4.2
+      "rating": 4.2,
+      "color": "black"
     },
     {
       "id": 31,
@@ -272,7 +300,8 @@
       "description": "Name : Best Selling Round Neck Half Sleeves t-shirt for mens ( Pack of 1 ) Fabric : CottonSleeve Length : Short Sleeves",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/102841746/4dtzp_512.webp",
-      "rating": 3.1
+      "rating": 3.1,
+      "color": "orange"
     },
     {
       "id": 32,
@@ -281,7 +310,8 @@
       "description": "Name : Men's T shirt Fabric : Lycra Sleeve Length : Short Sleeves Pattern : Printed",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/202477824/trxk2_512.webp",
-      "rating": 3.8
+      "rating": 3.8,
+      "color": "orange"
     },
     {
       "id": 33,
@@ -290,7 +320,8 @@
       "description": "Name : CLASSIC FABULOUS STRIPED MEN TSHIRTS Fabric : Cotton Sleeve Length : Short Sleeves",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/109672330/gdcvl_512.webp",
-      "rating": 3.9
+      "rating": 3.9,
+      "color": "pink"
     },
     {
       "id": 34,
@@ -299,7 +330,8 @@
       "description": "Name : Men's Printed Half Sleeve Round Neck T-shirt Fabric : Poly Blend Sleeve Length : Short Sleeves Pattern : Printed",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/149408141/dkhin_400.webp",
-      "rating": 3.5
+      "rating": 3.5,
+      "color": "pink"
     },
     {
       "id": 35,
@@ -308,7 +340,8 @@
       "description": "Name : MEN DENIM STECHEBLE JEANS Fabric : Denim Pattern : Solid Net Quantity (N) : 1 MEN DENIM STRECHEBLE JEANS",
       "category": "men's clothing",
       "image": "https://images.meesho.com/images/products/104628748/rqawc_512.webp",
-      "rating": 3.5
+      "rating": 3.5,
+      "color": "brown"
     },
     {
       "id": 36,
@@ -317,7 +350,8 @@
       "description": "Name : Women's Printed Rayon Long Anarkali Kurta Fabric : Rayon Sleeve Length : Three-Quarter Sleeves",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/49856632/zdbej_400.webp",
-      "rating": 3.8
+      "rating": 3.8,
+      "color": "brown"
     },
     {
       "id": 37,
@@ -326,7 +360,8 @@
       "description": "women, men and children. Customers can expect a world-class shopping environment stocking the latest in international fashion from around the globe, as well as OM SAI LATEST CREATION's",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/66828244/iwkwb_512.webp",
-      "rating": 3.9
+      "rating": 3.9,
+      "color": "blue"
     },
     {
       "id": 38,
@@ -335,7 +370,8 @@
       "description": "Name : Treandy Kurtis Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/87952064/mvdpc_512.webp",
-      "rating": 4
+      "rating": 4,
+      "color": "red"
     },
     {
       "id": 39,
@@ -344,7 +380,8 @@
       "description": "Name : Cheetah Print Middi Fabric : Crepe Sleeve Length : Three-Quarter Sleeves Pattern : Printed",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/133245035/oifsc_512.webp",
-      "rating": 4.4
+      "rating": 4.4,
+      "color": "black"
     },
     {
       "id": 40,
@@ -353,7 +390,8 @@
       "description": "The images shown are for representational purposes only. Please note that the color of the product may slightly vary in comparison to the picture shown on the website due to various reasons ",
       "category": "women's clothing",
       "image": "https://images.meesho.com/images/products/140925190/miab9_512.webp",
-      "rating": 4.4
+      "rating": 4.4,
+      "color": "pink"
     }
   ]
 }
